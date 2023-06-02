@@ -4,7 +4,7 @@ date = "2023-06-02"
 draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
-description = "\n"
+description = "Soziale Netzwerke werden immer beliebter. Sie ermöglichen Kontakt zwischen den Nutzern über jede Entfernung hinweg. Doch mit dem Anstieg der User*innen, steigt auch die Kritik. Viele Studien und Psychiater weisen auf die Auswirkungen der sozialen Medien hin.\n"
 footnotes = "*Erklärung in der Infobox ‘Was sind «soziale Netzwerke» überhaupt?’"
 +++
 **Soziale Netzwerke werden immer beliebter. Sie ermöglichen Kontakt zwischen den Nutzern über jede Entfernung hinweg. Doch mit dem Anstieg der User*innen, steigt auch die Kritik. Viele Studien und Psychiater weisen auf die Auswirkungen der sozialen Medien hin.**
