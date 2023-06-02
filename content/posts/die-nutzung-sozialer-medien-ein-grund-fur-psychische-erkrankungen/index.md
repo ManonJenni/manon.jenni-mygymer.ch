@@ -29,8 +29,7 @@ Dazu gehören beispielsweise Plattformen wie Tiktok, YouTube, Instagram, Twitter
 Man spricht von zwei unterschiedlichen Arten der Nutzung von sozialen Medien. Unter der passiven Nutzung versteht man, wenn man nur die Beiträge anderer liest oder anschaut. Aktive Nutzer posten selber Inhalte, teilen oder kommentieren. 
 {{</*/box*/>}}
 
-![Bild 1](phone-light-dimmerhp.webp)
-
+![Bild 1 ](unbenanntes_bild.jpg)
 
 > «Mir fällt es schwer, das Smartphone am Abend auszuschalten.»
 
@@ -41,7 +40,7 @@ Sophie selber habe deswegen Probleme und immer wieder Schwierigkeiten mit dem Ei
 
 Wenn man die sozialen Medien verantwortungsvoll nutzt, kann man dadurch auch einen Wissenszuwachs erzielen. Zum Beispiel, indem man sie als Zugang zu Gesundheitserfahrungen von anderen Menschen oder Gesundheitsinformationen von Experten verwendet. Es kann riskant sein, wenn man sich bei einem Verdacht auf psychische Erkrankungen nur auf Internetseiten informiert oder sich ausschliesslich dort Hilfe holt. Es gibt oft Experten, die sich online als solche ausgeben, obwohl sie gar keine sind, sagt die Neuropsychologe Studentin Johanna Klar. Wir führen mit ihr ein Interview, in dem sie uns erklärt, dass es wichtig sei, dass die online Therapeuten irgendwo zu einer Organisation dazugehören sollten und dass die wirklichen Experten im echten Leben nicht online ersetzt werden können. 
 
-### Die sozialen Medien aufgeklärt nutzen: 
+### Die sozialen Medien aufgeklärt nutzen:
 
 Um von den sozialen Medien profitieren zu können, sollte man wissen, wie man sie am besten nutzt und wie sie im Hintergrund funktionieren.  «Ganz wichtig ist, dass man die Sachen, die man darauf sieht, sehr stark hinterfragt», erklärt Social Media-Managerin Céline Roggo. Johanna Klar sagt auch, dass es wichtig sei, Kinder und Jugendlichen einen guten Umgang mit sozialen Medien beizubringen, so dass sie wissen, welche Gefahren es gibt und Soziale Medien aufgeklärt nutzen. Dabei ist es auch sehr wichtig, dass man die sozialen Medien altersangemessen nutzt. Sophie erzählte uns in einem Interview, dass sie Instagram bereits mit 11 Jahren heruntergeladen habe, obwohl die Nutzung erst ab 13 Jahren erlaubt sei. Es gibt also auch jüngere User*innen, die bei der Anmeldung ein falsches Geburtsdatum angeben. Laut Viera Pirker, der Autorin des Artikels «Social Media und psychische Gesundheit» in ‘Communicatio Socialis’, einer Zeitschrift für Medienethik, wird die elterliche Verantwortung nicht umfassend genug wahrgenommen.  Die Eltern sollten das Thema mit ihren Kindern zusammen anschauen und erklären, statt nur zu warnen das soziale Medien schlecht seien und es ihnen zu verbieten. Ausserdem wäre es auch gut den Umgang mit den sozialen Medien in der Schule zu behandeln. 
 
