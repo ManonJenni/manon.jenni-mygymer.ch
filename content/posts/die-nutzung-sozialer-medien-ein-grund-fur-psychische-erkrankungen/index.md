@@ -1,7 +1,7 @@
 +++
 title = "Die Nutzung sozialer Medien - ein Grund für psychische Erkrankungen"
 date = "2023-06-02"
-draft = true
+draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 description = "\n"
