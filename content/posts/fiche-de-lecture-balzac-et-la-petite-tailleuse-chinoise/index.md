@@ -4,11 +4,10 @@ date = "2024-01-11"
 draft = false
 pinned = false
 tags = ["französischauftrag", "donnerstagnachmittag", "balzacetlapetitetailleusechinoise", "loveLuo"]
+image = "https://www.google.ch/url?sa=i&url=https%3A%2F%2Fwww.darksidereviews.com%2Ffilm-balzac-et-la-petite-tailleuse-chinoise-de-dai-si-jie-2002%2F&psig=AOvVaw11uaSQkiqg_-VEmHdVOJG5&ust=1705067336805000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLDIifm81YMDFQAAAAAdAAAAABAE"
 description = ""
 +++
-
-
-**Fiche de lecture – Balzac et la petite tailleuse chinoise**
+### **Fiche de lecture – Balzac et la petite tailleuse chinoise**
 
 L’auteur :
 
